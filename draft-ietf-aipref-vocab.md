@@ -250,8 +250,9 @@ even if the model is capable of generative tasks.
 
 ## AI Use {#ai-use}
 
-Use of an asset as input to a generative AI model,
-which does not alter the learned parameters of the model.
+Use of an asset as input to a generative AI model
+to generate synthetic content
+in one or more modalities.
 
 This does not include any use that is included
 in the AI Training usage category ({{train-ai}}).
